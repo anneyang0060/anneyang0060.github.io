@@ -24,7 +24,7 @@ My research interest includes dynamic online algorithms for complex data (functi
 # 🔥 News
 - 
 
-# 📝 Selected Papers 
+# 📝 Publications 
 
 
 - **Yang Y.** and Yao F.* (2022). [Online estimation for functional data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2002158). *JASA*.
@@ -51,14 +51,15 @@ My research interest includes dynamic online algorithms for complex data (functi
 - *2023.01* Guozhi Xu Posdoctoral Research Foundation.
 - *2022.07* Special Foundation from	China Postdoctoral Science Foundation.
 
+# 📖 Educations
+- *2017.09 - 2022.07*, Ph.D. in statistics, Peking University. 
+- *2013.09 - 2017.07*, Bachelor in statistics, Beijing Normal University. 
+
 # 💬 Invited Talks
 -	International Conference on Econometrics and Statistics, Beijing, China, July 17-19, 2024
 -	IMS Asia Pacific Rim Meeting, Melbourne, Australia, January 4-7, 2024
 -	International Chinese Statistical Association China Conference, Chengdu, China, June 30 – July 3, 2023
 
-# 📖 Educations
-- *2017.09 - 2022.07*, Ph.D. in statistics, Peking University. 
-- *2013.09 - 2017.07*, Bachelor in statistics, Beijing Normal University. 
 
 # 💻 Internships
 - *2019.10-2020.06*, Didi Chuxing AI Lab, China.
