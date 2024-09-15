@@ -19,7 +19,7 @@ redirect_from:
 
 I am an assistant professor at Fudan University. I completed my Ph.D. at Peking University. After that, I pursued postdoctoral research at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am a youth editorial board member for the Journal of Systems Science and Complexity. 
 
-My research interest includes dynamic online algorithms for complex data (functional data, matrix data, high-dimensional data, etc.) and policy evaluation for spatio-temporal data with interference. I am also interested in incorporating machine learning methods and theory, ordinary/partial differential equations with statistical modeling and inference.
+My research interest includes dynamic online algorithms for complex data (functional data, matrix data, high-dimensional data, etc.) and policy evaluation for spatio-temporal data with interference. I am also interested in incorporating machine learning methods and theory, ordinary/partial differential equations with statistical modeling and inference. My email address is yangying@fudan.edu.cn
 
 # 🔥 News
  
@@ -34,7 +34,7 @@ My research interest includes dynamic online algorithms for complex data (functi
   + We propose an online smoothing backfitting method for generalized additive models coupled with local linear estimation. The idea can be extended to general nonlinear optimization problems.
 
 - Chen Z.#, **Yang Y.**# and Yao F.* (2023). [Dynamic matrix recovery](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2297468). *JASA*. 
-  + In this article, we propose a general framework for dynamic matrix recovery of low-rank matrices that evolve smoothly over time.
+  + In this article, we propose a general framework for dynamic matrix recovery of low-rank matrices that evolve smoothly over time. We start from the setting that the observations are independent across time, then extend to the setting that both the design matrix and noise possess certain temporal correlation.
 
 - Luo S.#, **Yang Y.**#, Shi C.#, Yao F., Ye J. and Zhu H.* (2024). [Policy evaluation for temporal and/or spatial dependent experiments](https://academic.oup.com/jrsssb/article-abstract/86/3/623/7511800?redirectedFrom=fulltext). *JRSSB*.
   + The aim of this article is to establish a causal link between the policies implemented by technology companies and the outcomes they yield within intricate temporal and/or spatial dependent experiments.
