@@ -26,14 +26,9 @@ My research interest includes dynamic online algorithms for complex data (functi
 
 # 📝 Selected Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - **Yang Y.** and Yao F.* (2022). [Online estimation for functional data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2002158). *JASA*.
   + In this work, we propose a dynamic candidate bandwidth method and apply it to functional data analysis for the mean and covariance estimation in the online context.
-
-</div>
-</div>
 
 - **Yang Y.**, Yao F.* and Zhao P. (2023). [Online smooth backfitting for generalized additive model](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2182213). *JASA*.
   + We propose an online smoothing backfitting method for generalized additive models coupled with local linear estimation. The idea can be extended to general nonlinear optimization problems.
