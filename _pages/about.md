@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a young researcher at Fudan University. I completed my Ph.D. at Peking University. After that, I pursued postdoctoral research at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am a youth editorial board member for the Journal of Systems Science and Complexity. 
+I am an assistant professor at Fudan University. I completed my Ph.D. at Peking University. After that, I pursued postdoctoral research at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am a youth editorial board member for the Journal of Systems Science and Complexity. 
 
 My research interest includes dynamic online algorithms for complex data (functional data, matrix data, high-dimensional data, etc.) and policy evaluation for spatio-temporal data with interferience. I am also interested in incorporating machine learning methods and theory, ordinary/partial differential equations with statistical modeling and inference.
 
@@ -45,23 +45,20 @@ My research interest includes dynamic online algorithms for complex data (functi
 - Zhang W.#, **Yang Y.**# and Yao F. (2024+). [Spatial interference detection in treatment effect model](https://arxiv.org/pdf/2409.04836). 
   + We introduce a low-rank and sparse treatment effect model that leverages data-driven techniques to identify the locations of interference effects, which allows for interference with heterogeneous forms. 
 
-
-
 # 🎖 Honors and Awards
 - *2024.07* Xianghui Scholars Youth Program. 
 - *2023.09* Young Elite Scientists Sponsorship Program from China Association for Science and Technology.
 - *2023.01* Guozhi Xu Posdoctoral Research Foundation.
 - *2022.07* Special Foundation from	China Postdoctoral Science Foundation.
 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Invited Talks
 -	International Conference on Econometrics and Statistics, Beijing, China, July 17-19, 2024
 -	IMS Asia Pacific Rim Meeting, Melbourne, Australia, January 4-7, 2024
 -	International Chinese Statistical Association China Conference, Chengdu, China, June 30 – July 3, 2023
 
+# 📖 Educations
+- *2017.09 - 2022.07*, Ph.D. in statistics, Peking University. 
+- *2013.09 - 2017.07*, Bachelor in statistics, Beijing Normal University. 
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.10-2020.06*, Didi Chuxing AI Lab, China.
