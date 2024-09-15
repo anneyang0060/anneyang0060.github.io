@@ -19,7 +19,7 @@ redirect_from:
 
 I am an assistant professor at Fudan University. I completed my Ph.D. at Peking University. After that, I pursued postdoctoral research at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am a youth editorial board member for the Journal of Systems Science and Complexity. 
 
-My research interest includes dynamic online algorithms for complex data (functional data, matrix data, high-dimensional data, etc.) and policy evaluation for spatio-temporal data with interferience. I am also interested in incorporating machine learning methods and theory, ordinary/partial differential equations with statistical modeling and inference.
+My research interest includes dynamic online algorithms for complex data (functional data, matrix data, high-dimensional data, etc.) and policy evaluation for spatio-temporal data with interference. I am also interested in incorporating machine learning methods and theory, ordinary/partial differential equations with statistical modeling and inference.
 
 # 🔥 News
  
