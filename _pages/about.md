@@ -21,7 +21,6 @@ I am an assistant professor at Fudan University. I completed my Ph.D. at Peking 
 
 My research interest includes dynamic online algorithms for complex data (functional data, matrix data, high-dimensional data, etc.) and policy evaluation for spatio-temporal data with interference. I am also interested in incorporating machine learning methods and theory, ordinary/partial differential equations with statistical modeling and inference. My email address is yangying@fudan.edu.cn
 
-# 🔥 News
  
 
 # 📝 Publications 
