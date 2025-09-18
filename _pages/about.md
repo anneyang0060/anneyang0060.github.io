@@ -49,11 +49,3 @@ My research interest includes dynamic online algorithms for complex data (functi
 - *2017.09 - 2022.07*, Ph.D. in statistics, Peking University. 
 - *2013.09 - 2017.07*, Bachelor in statistics, Beijing Normal University. 
 
-# 💬 Invited Talks
--	International Conference on Econometrics and Statistics, Beijing, China, July 17-19, 2024
--	IMS Asia Pacific Rim Meeting, Melbourne, Australia, January 4-7, 2024
--	International Chinese Statistical Association China Conference, Chengdu, China, June 30 – July 3, 2023
-
-
-# 💻 Internships
-- *2019.10-2020.06*, Didi Chuxing AI Lab, China.
