@@ -40,6 +40,7 @@ My research interest includes dynamic online algorithms for complex data (functi
 
 # 🎖 Programs
 -  General Program, National Natural Science Foundation of China.
+-  Xianghui Youth Program, Fudan University.
 -  Youth Program (C), National Natural Science Foundation of China. 
 -  Young Elite Scientists Sponsorship Program, China Association for Science and Technology.
 -  Guozhi Xu Posdoctoral Research Foundation, Academy of Mathematics and Systems Science.
