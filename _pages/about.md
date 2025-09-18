@@ -38,11 +38,12 @@ My research interest includes dynamic online algorithms for complex data (functi
 
 - Zhang W.#, **Yang Y.**# and Yao F. (2025+). High-dimensional Detection of Spatial Interference Effects. Minor Revision. *JBES*.
 
-# 🎖 Honors and Awards
-- *2024.07* Xianghui Scholars Youth Program. 
-- *2023.09* Young Elite Scientists Sponsorship Program from China Association for Science and Technology.
-- *2023.01* Guozhi Xu Posdoctoral Research Foundation.
-- *2022.07* Special Foundation from	China Postdoctoral Science Foundation.
+# 🎖 Programs
+-  General Program, National Natural Science Foundation of China.
+-  Youth Program (C), National Natural Science Foundation of China. 
+-  Young Elite Scientists Sponsorship Program, China Association for Science and Technology.
+-  Guozhi Xu Posdoctoral Research Foundation, Academy of Mathematics and Systems Science.
+-  Special Foundation, China Postdoctoral Science Foundation.
 
 # 📖 Educations
 - *2017.09 - 2022.07*, Ph.D. in statistics, Peking University. 
