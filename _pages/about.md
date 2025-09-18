@@ -27,23 +27,17 @@ My research interest includes dynamic online algorithms for complex data (functi
 # 📝 Publications 
 
 
-- **Yang Y.** and Yao F.* (2022). [Online estimation for functional data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2002158). *JASA*.
-  + In this work, we propose a dynamic candidate bandwidth method and apply it to functional data analysis for the mean and covariance estimation in the online context.
+- **Yang Y.** and Yao F.* (2023). [Online estimation for functional data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2002158). *JASA*.
 
-- **Yang Y.**, Yao F.* and Zhao P. (2023). [Online smooth backfitting for generalized additive model](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2182213). *JASA*.
-  + We propose an online smoothing backfitting method for generalized additive models coupled with local linear estimation. The idea can be extended to general nonlinear optimization problems.
+- **Yang Y.**, Yao F.* and Zhao P. (2024). [Online smooth backfitting for generalized additive model](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2182213). *JASA*.
 
-- Chen Z.#, **Yang Y.**# and Yao F.* (2023). [Dynamic matrix recovery](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2297468). *JASA*. 
-  + In this article, we propose a general framework for dynamic matrix recovery of low-rank matrices that evolve smoothly over time. We start from the setting that the observations are independent across time, then extend to the setting that both the design matrix and noise possess certain temporal correlation.
+- Chen Z.#, **Yang Y.**# and Yao F.* (2024). [Dynamic matrix recovery](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2297468). *JASA*. 
 
 - Luo S.#, **Yang Y.**#, Shi C.#, Yao F., Ye J. and Zhu H.* (2024). [Policy evaluation for temporal and/or spatial dependent experiments](https://academic.oup.com/jrsssb/article-abstract/86/3/623/7511800?redirectedFrom=fulltext). *JRSSB*.
-  + The aim of this article is to establish a causal link between the policies implemented by technology companies and the outcomes they yield within intricate temporal and/or spatial dependent experiments.
 
-- **Yang Y.**, Shi C., Yao F., Wang S. and Zhu H.* (2025+). [Spatially randomized designs can enhance policy evaluation](https://arxiv.org/pdf/2403.11400).
-  + This article studies the benefits of using spatially randomized experimental designs which partition the experimental area into distinct, non-overlapping units with treatments assigned randomly. 
+- Wen, Q., Shi, C., **Yang, Y.**, Tang, N., and Zhu, H. (2025). [Unraveling the interplay between carryover effects and reward autocorrelations in switchback experiments]. *ICML*. 
 
-- Zhang W.#, **Yang Y.**# and Yao F. (2025+). [Spatial interference detection in treatment effect model](https://arxiv.org/pdf/2409.04836). 
-  + We introduce a low-rank and sparse treatment effect model that leverages data-driven techniques to identify the locations of interference effects, which allows for interference with heterogeneous forms. 
+- Zhang W.#, **Yang Y.**# and Yao F. (2025+). [High-dimensional Detection of Spatial Interference Effects]. Minor Revision. *JBES*.
 
 # 🎖 Honors and Awards
 - *2024.07* Xianghui Scholars Youth Program. 
