@@ -36,7 +36,7 @@ My research interest includes dynamic online algorithms for complex data (functi
 
 - Wen, Q., Shi, C., **Yang, Y.**, Tang, N., and Zhu, H. (2025). Unraveling the interplay between carryover effects and reward autocorrelations in switchback experiments. *ICML*. 
 
-- Zhang W.#, **Yang Y.**# and Yao F. (2025+). High-dimensional Detection of Spatial Interference Effects. Minor Revision. *JBES*.
+- Zhang W.#, **Yang Y.**# and Yao F. (2025+). High-dimensional Detection of Spatial Interference Effects. Publish online. *JBES*.
 
 # 🎖 Programs
 -  General Program, National Natural Science Foundation of China.
