@@ -34,9 +34,11 @@ My research interest includes dynamic online algorithms for complex data (functi
 
 - Luo S.#, **Yang Y.**#, Shi C.#, Yao F., Ye J. and Zhu H.* (2024). [Policy evaluation for temporal and/or spatial dependent experiments](https://academic.oup.com/jrsssb/article-abstract/86/3/623/7511800?redirectedFrom=fulltext). *JRSSB*.
 
-- Wen, Q., Shi, C., **Yang, Y.**, Tang, N., and Zhu, H. (2025). Unraveling the interplay between carryover effects and reward autocorrelations in switchback experiments. *ICML*. 
+- Wen Q., Shi C., **Yang Y.**, Tang N., and Zhu H. (2025). Unraveling the interplay between carryover effects and reward autocorrelations in switchback experiments. *ICML*. 
 
-- Zhang W.#, **Yang Y.**# and Yao F. (2026). High-dimensional Detection of Spatial Interference Effects. Publish online. *JBES*.
+- Zhang W.#, **Yang Y.**# and Yao F.* (2026). High-dimensional Detection of Spatial Interference Effects. Publish online. *JBES*.
+
+- **Yang Y.**, Shi C., Yao F., Wang S. and Zhu H.* (2026+). Spatially Randomized Designs can Enhance Policy Evaluation. Accepted. *AOAS*.
 
 # 🎖 Programs
 -  General Program, National Natural Science Foundation of China.
